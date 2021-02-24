@@ -3,6 +3,7 @@ Ensure the docker-compose.yml and database.env files match the configurations de
 ```docker-compose up```
 
 # Using pgAdmin in docker to manage db container
+https://www.pgadmin.org/docs/pgadmin4/4.30/container_deployment.html
 ```
 docker pull dpage/pgadmin4
 docker run -p 80:80 \
