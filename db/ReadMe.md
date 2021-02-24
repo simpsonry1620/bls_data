@@ -1,4 +1,5 @@
 # Setting up postgres db
+https://hub.docker.com/_/postgres
 Ensure the docker-compose.yml and database.env files match the configurations desired then simply run
 ```docker-compose up```
 
